@@ -18,7 +18,7 @@
 ### Entre no repositorio backEnd
 
 ```
-**[REPOSITORIO] (https://github.com/Galvs135/desafio_fullstack_back)**
+**[REPOSITORIO](https://github.com/Galvs135/desafio_fullstack_back)**
 ```
 
 ### Dentro da pasta raiz do repositorio, instale as dependências

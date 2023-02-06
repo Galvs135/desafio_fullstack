@@ -32,7 +32,7 @@ yarn ou npm install
 ```
 # .ENV
 
-DICA: para a PORT:5432
+Dentro do Front a baseURL configurada para PORT é : "3003"
 ```
 
 ### Execute as migrations

@@ -18,7 +18,7 @@
 ### Entre no repositorio backEnd
 
 ```
-**[REPOSITORIO](https://github.com/Galvs135/desafio_fullstack_back)**
+[REPOSITORIO](https://github.com/Galvs135/desafio_fullstack_back)
 ```
 
 ### Dentro da pasta raiz do repositorio, instale as dependências
@@ -53,7 +53,7 @@ yarn start
 ### Entre no repositorio do frontEnd
 
 ```
-**[REPOSITORIO] (https://github.com/Galvs135/desafio_fullstack_front)**
+[REPOSITORIO](https://github.com/Galvs135/desafio_fullstack_front)
 ```
 
 ### Instale as dependências
